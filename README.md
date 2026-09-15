@@ -1,16 +1,22 @@
-## Hi there 👋
+# Christian Elijah DC. Darvin
 
-<!--
-**clangdarvin/clangdarvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Student | Aspiring C++ Programmer**
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about building efficient systems. I work primarily in a Linux environment and rely on Neovim for my daily workflow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+
+- **Core:** C++
+- **Languages:** Python, Bash
+- **Tools & Environment:** Linux (Ubuntu), Neovim, Visual Studio Code
+
+### 🚀 Current Focus
+
+- Deepening my expertise in **C++** and systems-level architecture.
+
+### 📫 Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/christiandarvin/) 
+
+---
+*Clean code. Efficient systems.*
