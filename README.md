@@ -1,22 +1,19 @@
 # Christian Elijah DC. Darvin
 
-**Computer Science Student | Aspiring C++ Programmer**
+**Computer Science Student | C++ & Systems Software**
 
-I'm a Computer Science student passionate about building efficient systems. I work primarily in a Linux environment and rely on Neovim for my daily workflow.
+I focus on C++ and systems programming in a Linux environment, working through *CS:APP* to build solid foundations in memory management, computer architecture, and hardware-software interaction.
 
-### 💻 Tech Stack
+### 💻 Technical Skills
 
-- **Core:** C++
-- **Languages:** Python, Bash
-- **Tools & Environment:** Linux (Ubuntu), Neovim, Visual Studio Code
+- **Languages:** C++20, Python, Bash
+- **Tooling & Environment:** Linux, CMake, Git, CLion, Unreal Engine
 
-### 🚀 Current Focus
+### 🎯 Current Focus
 
-- Deepening my expertise in **C++** and systems-level architecture.
+- Studying *CS:APP* to understand virtual memory, cache hierarchy, and assembly-level execution.
+- Preparing for graduate and advanced diploma studies at UWinnipeg and RRC Polytech.
 
-### 📫 Let's Connect
+### 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/christiandarvin/) 
-
----
-*Clean code. Efficient systems.*
+[LinkedIn](https://www.linkedin.com/in/christiandarvin/)
